@@ -1,0 +1,63 @@
+html{
+    scroll-behavior: smooth;
+}
+a:hover{
+    text-decoration: none;
+}
+#header{
+    color: #fff;
+    background: rgb(4, 4, 100);
+}
+#logo{
+    font-size: 5rem;
+    color:white ;
+}
+#menu{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color: #fff;
+    padding: 15px 10px;
+    display: block;
+}
+#menu li a:hover{
+    background: rgb(75, 181, 223) ;
+}
+#banner{
+    background: url('images/—Pngtree—biological virus medical safety banner_1121665.jpg') no-repeat 0 0;
+    background-size: cover;
+}
+.banner-title{
+    background: rgb(255, 255, 255,0.2);
+    padding: 20px;
+}
+
+.content{
+    padding-top: 25px;
+    background: white;
+}
+.about{
+    font-size: medium;
+}
+.mission{
+    padding-left: 520px;
+    padding-right: 520px;
+}
+.card{
+    box-shadow: 0 0 20px #ccc;
+}
+.contactUs{
+    margin: 20px;
+   
+}
+.contact{
+    border-bottom: 2px dotted rgb(177, 170, 170);
+}
+.detail{
+    justify-content: center;
+}
